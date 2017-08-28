@@ -2,8 +2,11 @@ body {
 	width: 960px;
 	margin: 0 auto;
 	padding-bottom: 5%;
+	background-color: lightgreen;
 }
-
+p{
+	font-family: helvetica;
+}
 .sunset {
 	max-width: 100%;
 }
